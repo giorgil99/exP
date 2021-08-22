@@ -23,6 +23,6 @@ public class localHtmlTest {
         } else {
             System.out.println("you have a lot to learn");
         }
-        driver.quit();
+        //driver.quit();
     }
 }
